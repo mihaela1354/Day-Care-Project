@@ -3,9 +3,9 @@ import React from 'react';
 import Aux from '../../hoc/Aux'
 const layout = (props) => (
     <Aux>
-        <div> Toolbar,SideDrawer, Backrop</div>
+        <div> Toolbar, SideDrawer, Backrop, Кирилица</div>
         <main>
-            {props.chilren}
+            {props.children}
         </main>
     </Aux>
 );
