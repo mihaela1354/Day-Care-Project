@@ -1,6 +1,6 @@
 import React from 'react';
 
-import Aux from '../../hoc/Aux'
+import Aux from '../../hoc/Auxil'
 const layout = (props) => (
     <Aux>
         <div> Toolbar, SideDrawer, Backrop, Кирилица</div>
