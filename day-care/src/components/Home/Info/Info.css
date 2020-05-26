@@ -1,0 +1,11 @@
+.Cont{
+    background-color: lightgrey;
+    padding: 0.5rem;
+    margin: 1em;
+}
+
+.ToggleButton{
+   border: 2px solid black;
+   margin-right:0;
+   margin-left:auto;
+}
